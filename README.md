@@ -1,6 +1,7 @@
 # Upcycle YYC
 
-View Live: https://afternoon-tor-83860.herokuapp.com/
+View Live: 
+[UpcycleYYC](https://afternoon-tor-83860.herokuapp.com/)
 
 ## Project Description
 
